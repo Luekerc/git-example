@@ -1,2 +1,2 @@
 # git-example
-Testing how GIT works
+Testing *how GIT **works**!!!
